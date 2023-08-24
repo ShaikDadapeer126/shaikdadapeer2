@@ -23,6 +23,10 @@
 //         else{
 //             alert("yeh thats my boy tu hi jeetega pata hi tha mujhe");
 //        } 
+
+//      or
+
+
 alert("you are playing snake, water and gun game")
 let arr=["snake","water","gun"]
 let round=1;
