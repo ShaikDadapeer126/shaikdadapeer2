@@ -1,3 +1,6 @@
+//Water, Snake and Gun game  :-
+
+
 // let arr=['snake','water','gun'];
 //         alert("you are playing snake water and gun game,")
 //         let round=1;
